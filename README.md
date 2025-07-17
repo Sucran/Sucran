@@ -11,7 +11,7 @@
 ## Certification 🏆
 
 <!-- 请将下面的链接替换为您的 CKA 认证验证链接 -->
-[![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)]
+![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 
