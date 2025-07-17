@@ -12,7 +12,7 @@
 
 <!-- 请将下面的链接替换为您的 CKA 认证验证链接 -->
 ![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+（expire at 2025.02， which will renew in 2025.11）
 
 
 
