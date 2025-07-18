@@ -30,7 +30,6 @@ This GitHub account has been dormant since 2019 because my previous code is on a
 ![Apache Hudi](https://img.shields.io/badge/-Apache%20Hudi-05122A?style=flat)&nbsp;
 ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka&logoColor=white)
-
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=white)&nbsp;
 
 - SQL/NoSQL
