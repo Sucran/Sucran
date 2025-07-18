@@ -1,9 +1,8 @@
-# Welcome to my Profile 👋
-![](https://komarev.com/ghpvc/?username=Sucran&color=green)
+# Welcome to my Profile 👋 ![](https://komarev.com/ghpvc/?username=Sucran&color=green)
 
-## About Me
+## About Me 👨‍💻
 
-**I've been working with technology since 2019**, and during this time I worked with the most diverse types of projects like: **Distributed Job Scheduling Systems, CloudNative Streaming Lakehouse Systems, and Big Data Platforms (with a focus on job orchestration and diagnostics)**.
+**I've been working with technology since 2019**, and during this time I worked with the most diverse types of projects like: **Distributed Job Scheduling Systems, CloudNative Streaming Lakehouse Systems, Big Data Platforms (with a focus on job orchestration and diagnostics)，RAG system**.
 
 This GitHub account has been dormant since 2019 because my previous code is on a corporate intranet and I didn't have the energy to contribute to the open source community. **I'm now a freelancer and actively embracing the open source community.**
 
