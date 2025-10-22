@@ -68,7 +68,7 @@ This GitHub account has been dormant since 2019 because my previous code is on a
 *Black Friday sales often include discounted prices on certifications.*
 
 ### For More Info 💻
-- My personal homepage: [Sucran'Log](https://sucran.github.io)
+- My personal homepage: [Sucran's Blog](https://sucran.top)
 
 
 
