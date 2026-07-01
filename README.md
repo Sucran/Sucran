@@ -51,19 +51,14 @@ This GitHub account has been dormant since 2019 because my previous code is on a
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain&logoColor=white)&nbsp;
 ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langgraph&logoColor=white)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai&logoColor=white)&nbsp;
-## Github Overview 🌞
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sucran&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sucran&hide=html,javascript,CSS,jupyter%20notebook&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
-</a>
 
 ## Certification 🏆
 
 <!-- 请将下面的链接替换为您的 CKA 认证验证链接 -->
 ![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-*(expire at 2025.02, which will renew in 2025.11)*
+*(2022 - now)*
 
 *Black Friday sales often include discounted prices on certifications.*
 
