@@ -6,8 +6,6 @@
 
 This GitHub account has been dormant since 2019 because my previous code is on a corporate intranet and I didn't have the energy to contribute to the open source community. **I'm actively embracing the open source community.**
 
-**I am also looking for new job opportunities.** As I wish to spend time with my family, I prefer remote or hybrid positions based in mainland China or Hong Kong. If on-site work is required, the position must be based in Xiamen/Fuzhou, Fujian, China.
-
 **You can contact me via richardsucran(at)gmail(dot)com for hiring. I generally check for new emails every two days. Please send official job postings; I will review them and get in touch.**
 
 ![](img/index.png)
